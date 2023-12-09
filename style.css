@@ -20,14 +20,12 @@ body{
     background-size: cover;
 }
 .piece1{
-    display: inline;
     height: 70px;
     width: 50px;
     background-image: url("blue-piece.png");
     background-size: cover;
 }
 .piece2{
-    display: inline;
     height: 70px;
     width: 50px;
     background-image: url("red-piece.png");
