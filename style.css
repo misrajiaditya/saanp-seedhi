@@ -15,17 +15,15 @@
 }
 .piece1{
     display: inline;
-    height: 50px;
+    height: 70px;
     width: 50px;
-    border-radius: 50%;
-    border: 1px solid black ;
-    background-color: blue;
+    background-image: url("blue-piece.png");
+    background-size: cover;
 }
 .piece2{
     display: inline;
-    height: 50px;
+    height: 70px;
     width: 50px;
-    border-radius: 50%;
-    border: 1px solid black ;
-    background-color: chartreuse;
+    background-image: url("red-piece.png");
+    background-size: cover;
 }
