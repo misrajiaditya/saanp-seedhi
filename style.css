@@ -14,11 +14,10 @@ body{
 }
 .board-img{
     height: 650px;
-    width: 99%;
+    width: 650px;
     border: 2px solid black;
     background-image: url("board4.png") ;
     background-size: cover;
-    justify-content: center;
 }
 .piece1{
     height: 70px;
