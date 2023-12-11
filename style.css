@@ -14,7 +14,7 @@ body{
 }
 .board-img{
     height: 650px;
-    width: 650px;
+    width: 99%;
     border: 2px solid black;
     background-image: url("board4.png") ;
     background-size: cover;
