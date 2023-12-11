@@ -18,6 +18,7 @@ body{
     border: 2px solid black;
     background-image: url("board4.png") ;
     background-size: cover;
+    justify-content: center;
 }
 .piece1{
     height: 70px;
