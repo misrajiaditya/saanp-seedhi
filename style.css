@@ -22,13 +22,13 @@ body{
 .piece1{
     height: 70px;
     width: 50px;
-    background-image: url("blue-piece.png");
+    background-image: url("blue-piece(1).png");
     background-size: cover;
 }
 .piece2{
     height: 70px;
     width: 50px;
-    background-image: url("red-piece.png");
+    background-image: url("red-piece (1).png");
     background-size: cover;
 }
 
