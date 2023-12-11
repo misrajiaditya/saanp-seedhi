@@ -31,6 +31,50 @@ body{
     background-image: url("red-piece.png");
     background-size: cover;
 }
+
+.dice1{
+    height: 50px;
+    width: 50px;
+    background-image: url("dice-six-faces-one.png");
+    background-size: cover;
+}
+
+.dice2{
+    height: 50px;
+    width: 50px;
+    background-image: url("dice-six-faces-two.png");
+    background-size: cover;
+}
+
+.dice3{
+    height: 50px;
+    width: 50px;
+    background-image: url("dice-six-faces-three.png");
+    background-size: cover;
+}
+
+.dice4{
+    height: 50px;
+    width: 50px;
+    background-image: url("dice-six-faces-four.png");
+    background-size: cover;
+}
+
+.dice5{
+    height: 50px;
+    width: 50px;
+    background-image: url("dice-six-faces-five.png");
+    background-size: cover;
+}
+
+.dice6{
+    height: 50px;
+    width: 50px;
+    background-image: url("dice-six-faces-six.png");
+    background-size: cover;
+}
+
+
 #header{
     text-align: center;
     font-weight: bold;
