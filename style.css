@@ -67,31 +67,77 @@ pre{
 
 /** page 2 with board **/
 
+body{
+    background-color: #444D6E;
+    text-align: center;
+}
+
+p{
+    padding-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#DD71AE;
+    font-size: 35px;
+}
+
+button{
+    height: 50px;
+    width: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: darkred;
+    background-color: #DD71AE;
+    align-items: center;
+}
+
+.space{
+    width:250px;
+    height: 150px;
+    background-color: #84D7EB;
+    border-radius: 20px;
+    margin: 20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #DD71AE;
+    font-size: 20px;
+}
+
  .board{
     height: 100%;
-    width: 80%;
+    width: 100%;
     display: flex;
-    justify-content: center;
+    justify-content:space-evenly;
     align-items: center;
 }
 .board-img{
     height: 650px;
-    width: 650px;
-    border: 2px solid black;
+    width: 700px;
     background-image: url("board4.png") ;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-top: 100px;
 }
+
+
+
 .piece1{
-    height: 70px;
-    width: 50px;
-    background-image: url("blue-piece(1).png");
+    height: 50px;
+    width: 40px;
+    background-image: url("violet-piece\ \(1\).png");
     background-size: cover;
+    position: relative;
+    left:300px;
+    bottom: 200px;
 }
 .piece2{
-    height: 70px;
-    width: 50px;
+    height: 50px;
+    width: 40px;
     background-image: url("red-piece (1).png");
-    background-size: cover;
+    background-size:cover;
+    position: relative;
+    left:300px;
+    bottom: 183px;
 }
 
 .dice1{
@@ -99,6 +145,9 @@ pre{
     width: 50px;
     background-image: url("dice1.png");
     background-size: cover;
+    position: relative;
+    top:60px;
+    left:180px;
 }
 
 .dice2{
@@ -135,5 +184,4 @@ pre{
     background-image: url("dice6.png");
     background-size: cover;
 }
-
 
