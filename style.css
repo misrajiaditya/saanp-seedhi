@@ -97,42 +97,42 @@ pre{
 .dice1{
     height: 50px;
     width: 50px;
-    background-image: url("dice-six-faces-one.png");
+    background-image: url("dice1.png");
     background-size: cover;
 }
 
 .dice2{
     height: 50px;
     width: 50px;
-    background-image: url("dice-six-faces-two.png");
+    background-image: url("dice2.png");
     background-size: cover;
 }
 
 .dice3{
     height: 50px;
     width: 50px;
-    background-image: url("dice-six-faces-three.png");
+    background-image: url("dice3.png");
     background-size: cover;
 }
 
 .dice4{
     height: 50px;
     width: 50px;
-    background-image: url("dice-six-faces-four.png");
+    background-image: url("dice4.png");
     background-size: cover;
 }
 
 .dice5{
     height: 50px;
     width: 50px;
-    background-image: url("dice-six-faces-five.png");
+    background-image: url("dice5.png");
     background-size: cover;
 }
 
 .dice6{
     height: 50px;
     width: 50px;
-    background-image: url("dice-six-faces-six.png");
+    background-image: url("dice6.png");
     background-size: cover;
 }
 
