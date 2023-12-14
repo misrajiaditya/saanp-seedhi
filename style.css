@@ -122,8 +122,8 @@ button{
 
 
 .piece1{
-    height: 50px;
-    width: 40px;
+    height: 25px;
+    width: 20px;
     background-image: url("violet-piece\ \(1\).png");
     background-size: cover;
     position: relative;
@@ -131,8 +131,8 @@ button{
     bottom: 200px;
 }
 .piece2{
-    height: 50px;
-    width: 40px;
+    height: 25px;
+    width: 20px;
     background-image: url("red-piece (1).png");
     background-size:cover;
     position: relative;
